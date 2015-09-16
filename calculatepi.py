@@ -22,4 +22,5 @@ Note: remember that the printed value of pi will be an estimate!
 
 """
 import math 
-dir math
+dir (math)
+print math
